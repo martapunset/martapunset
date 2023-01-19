@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://images.squarespace-cdn.com/content/v1/5bc3ae2ca56827a279bf229b/1617988169630-DOPEYC0CSLM2V86S0AJD/chrome_dino_banner.png?format=1500w" alt="nodejs" width="100%" height="330"/>
 
 <h1 align="center">Hi 👋, I'm Marta Punset</h1>
 <h3 align="center">A passionate MERN developer from Barcelona</h3>
+
 
 
 
