@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/ravi72munde/Chrome-Dino-Reinforcement-Learning/master/img_data/trained_dino.gif" alt="nodejs" width="100%" height="330"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="nodejs" width="100%" height="330"/>
 
 <h1 align="center">Hi 👋, I'm Marta Punset</h1>
 <h3 align="center">A passionate MERN developer from Barcelona</h3>
