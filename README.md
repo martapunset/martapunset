@@ -18,16 +18,14 @@ Here are some ideas to get you started:
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="nodejs" width="100%" height="330"/>
 
 <h1 align="center">Hi 👋, I'm Marta Punset</h1>
-<h3 align="center">A passionate MERN developer from Barcelona</h3>
+<h3 align="center">A passionate software developer from Barcelona</h3>
 
 
 
 
-- 🔭 I’m currently working on **musicApp project**
+- 🔭 I’m currently working on **Memeow fullstack project build in react and node.js**
 
-- 🌱 I’m currently learning **MERN stack**
-
-- 💬 Ask me about **react, nodeJS**
+- 🌱 I’m currently learning ** React.js, node.js, REST APIs and enhancing my OOP knowledge with Java**
 
 - 📫 How to reach me **martapunset10@gmail.com**
 
